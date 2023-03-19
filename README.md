@@ -3,7 +3,7 @@
 
 <br>
 
-Project Name: TBD 🙌🤖🙌
+Project Name: Movie Success Prediction
 
 Project Type: Data Analysis
 

@@ -3,7 +3,7 @@
 
 <br>
 
-Project Name: TBD 🙌🤖🙌
+Project Name: Pre-Release Profitability: Predicting Revenue and Ratings for Hollywood Films 
 
 Project Type: Data Analysis
 
